@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "550081743591",
+    "project_id": "ammarii",
+    "storage_bucket": "ammarii.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550081743591:android:f2caff9606846e940af042",
+        "android_client_info": {
+          "package_name": "com.achraaafapp.achraaafapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqOlw9ikEst6o3P5hJumhvP2pgkIF-0sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550081743591:android:89eff39ad0e927c70af042",
+        "android_client_info": {
+          "package_name": "com.ammarii.ammarii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqOlw9ikEst6o3P5hJumhvP2pgkIF-0sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
